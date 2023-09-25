@@ -1,0 +1,5 @@
+curl --location 'https://j8rwgjf9il.execute-api.eu-central-1.amazonaws.com/dev/replace' \
+--header 'Content-Type: application/json' \
+--data '{
+    "input" : "The analysts at TriodOS Ing AbN VolksBank did a great job"
+}'
